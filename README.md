@@ -2,7 +2,7 @@
 
 This is a public-facing alerts site hosted using **Cloudflare Pages** to provide real-time safety and security updates for parents, schools, and communities. The goal is to increase awareness of national threats, cybersecurity risks, child safety alerts, and severe weather.
 
-🔗 Live Site: [https://alerts.cybersafeparents.com](https://alerts.cybersafeparents.com)
+🔗 Live Site: [https://alerts.cybersafeparents.org](https://alerts.cybersafeparents.org)
 
 ---
 
